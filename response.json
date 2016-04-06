@@ -1,0 +1,295 @@
+{
+    "app": {
+        "debug": "on",
+        "modules": [
+                    {
+                    "id": 1001,
+                    "title": "Profile",
+                    "icon": "ic_contacts",
+                    "backgroundCover": "https://cloud.githubusercontent.com/assets/1849990/14276250/f8f111ea-fb1d-11e5-8427-5d4d00d5da68.jpeg",
+                    "hexColor": "#87FC70",
+                    "entries": [
+                                {
+                                "id": 2001,
+                                "moduleId": 1001,
+                                "title": "Profile",
+                                "subTitle": "Manuel Escrig Ventura",
+                                "content": "I am a passionate <b>Software Engineer</b> focused on <b>mobile development</b> with excellent communication and leadership skills.\nI have developed and released numerous iOS applications. I also have experience with Android development. My life experience from working, studying and living in places in Spain, USA, Ireland, England and Switzerland has enabled me to better understand the voice of the customer.\nI am inspired and driven to deliver solutions using the <b>newest technologies</b> and producing the most <b>functional solutions</b> required for successful operations.",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14276241/f43eb724-fb1d-11e5-9903-d205b95cb876.jpeg",
+                                "hexColor": "#87FC70"
+                                }
+                                ]
+                    },
+                    {
+                    "id": 1002,
+                    "title": "Work Experience",
+                    "icon": "ic_work_experience",
+                    "backgroundCover": "https://cloud.githubusercontent.com/assets/1849990/14276245/f6243cf8-fb1d-11e5-8f81-0ae31469e70b.jpeg",
+                    "hexColor": "#34AADC",
+                    "entries": [
+                                {
+                                "id": 2002,
+                                "moduleId": 1002,
+                                "title": "Mobile Software Engineer",
+                                "subTitle": "eCrome Group AG (St. Gallen, Switzerland)",
+                                "content": "+ Full development and maintenance of eCrome’s flagship app taBook iOS (Objective-C) used by hundreds of national & international clients for iPad/iPhone\n- Some technologies used: Realm, ReactiveCocoa, AFNetworking, AsynDisplayKit, AutoLayout, UIStackView, Google Maps, In-App Purchases, Unit Testing, Piwik Analytics \n+ Implementation of new features and maintenance of taBook Android (Java) version\n - Some technologies used: Realm, Picasso, OkHttp, Crashlytics, Okio * Full development and maintenance of eCrome News for iOS (Objective-C)\n+ Interview new hires and lead development of mobile products",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14294051/7d3ed1ca-fb6f-11e5-8a7e-dfd76df25068.png",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2003,
+                                "moduleId": 1002,
+                                "title": "Web Developer",
+                                "subTitle": "Go Inspired LLC (USA)",
+                                "content": "+ Development and design of Go Inspired’s website with JavaScript + HTML5 + CSS3 \n+ Website traffic growth through SEO",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14294135/d70632b6-fb6f-11e5-9af9-22311e33b413.png",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2004,
+                                "moduleId": 1002,
+                                "title": "Developer",
+                                "subTitle": "Almazora City Hall (Spain)",
+                                "content": "+ Designed and implemented a web app to record events and show notifications (PHP + MySQL) \n+ Built and designed Census Management System with Visual Basic",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14276245/f6243cf8-fb1d-11e5-8f81-0ae31469e70b.jpeg",
+                                "hexColor": "#87FC70"
+                                }
+                                ]
+                    },
+                    {
+                    "id": 1003,
+                    "title": "Education",
+                    "icon": "ic_education",
+                    "backgroundCover": "https://cloud.githubusercontent.com/assets/1849990/14276246/f672051e-fb1d-11e5-8b43-a437ded64d26.jpeg",
+                    "hexColor": "#FF9500",
+                    "entries": [
+                                {
+                                "id": 2005,
+                                "moduleId": 1003,
+                                "title": "First class (Honours) BEng in Software Engineering",
+                                "subTitle": "AIT (Ireland)",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14294288/79d1e09e-fb70-11e5-981e-42a49c5e5921.png",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2006,
+                                "moduleId": 1003,
+                                "title": "Engineering in Computer Management",
+                                "subTitle": "UJI (Spain)",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14294285/784bfc3c-fb70-11e5-9d5b-96ada8217802.png",
+                                "hexColor": "#87FC70"
+                                }
+                                ]
+                    },
+                    {
+                    "id": 1004,
+                    "title": "Projects",
+                    "icon": "ic_projects",
+                    "backgroundCover": "https://cloud.githubusercontent.com/assets/1849990/14276259/09a9129e-fb1e-11e5-95d2-0fba92cef1ab.jpeg",
+                    "hexColor": "#5856D6",
+                    "entries": [
+                                {
+                                "id": 2024,
+                                "moduleId": 1004,
+                                "title": "Digital Photo Frame App",
+                                "subTitle": "",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14294382/142c26c2-fb71-11e5-8264-77d3e53208b2.png",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2025,
+                                "moduleId": 1004,
+                                "title": "Group Budget App",
+                                "subTitle": "",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14294380/138a8c54-fb71-11e5-8755-65c4583fabf7.png",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2026,
+                                "moduleId": 1004,
+                                "title": "People Tracker App",
+                                "subTitle": "",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14294381/13f14a8e-fb71-11e5-9fab-95769b3fcee4.png",
+                                "hexColor": "#87FC70"
+                                }
+                                ]
+                    },
+                    {
+                    "id": 1005,
+                    "title": "Skills",
+                    "icon": "ic_toolbox",
+                    "backgroundCover": "https://cloud.githubusercontent.com/assets/1849990/14276258/09a8b542-fb1e-11e5-9e0e-7464d874c598.jpeg",
+                    "hexColor": "#C644FC",
+                    "entries": [
+                                {
+                                "id": 2012,
+                                "moduleId": 1005,
+                                "title": "Specialties",
+                                "subTitle": "Objective-C, Java, Swift, C++, PHP+MySQL & CSS",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14276258/09a8b542-fb1e-11e5-9e0e-7464d874c598.jpeg",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2013,
+                                "moduleId": 1005,
+                                "title": "Solid understanding",
+                                "subTitle": "Object Oriented Programming focused on memory and performance",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14276258/09a8b542-fb1e-11e5-9e0e-7464d874c598.jpeg",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2014,
+                                "moduleId": 1005,
+                                "title": "Knowledge",
+                                "subTitle": "Agile development working with Git/SVN & UnitTesting",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14276258/09a8b542-fb1e-11e5-9e0e-7464d874c598.jpeg",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2015,
+                                "moduleId": 1005,
+                                "title": "Experience",
+                                "subTitle": "Dependency managers such as CocoaPods & management and performance Carthage",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14276258/09a8b542-fb1e-11e5-9e0e-7464d874c598.jpeg",
+                                "hexColor": "#87FC70"
+                                }
+                                ]
+                    },
+                    {
+                    "id": 1007,
+                    "title": "Languages",
+                    "icon": "ic_diploma",
+                    "backgroundCover": "https://cloud.githubusercontent.com/assets/1849990/14276247/f7c7cbba-fb1d-11e5-84d8-cce05a24c7b9.jpeg",
+                    "hexColor": "#FF1300",
+                    "entries": [
+                                {
+                                "id": 2008,
+                                "moduleId": 1007,
+                                "title": "🇺🇸 English",
+                                "subTitle": "Fluent",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14276249/f8a0bc4a-fb1d-11e5-8c6f-0a593fd2e277.jpeg",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2009,
+                                "moduleId": 1007,
+                                "title": "🇨🇭 German",
+                                "subTitle": "Intermediate",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14293714/0abda1e0-fb6e-11e5-8eb5-a876cec7e04d.jpg",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 20010,
+                                "moduleId": 1007,
+                                "title": "🇪🇸 Spanish",
+                                "subTitle": "Native Speaker",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14293715/0ae6d18c-fb6e-11e5-93a0-27d8b3f39675.jpg",
+                                "hexColor": "#87FC70"
+                                }
+                                ]
+                    },
+                    {
+                    "id": 1008,
+                    "title": "Interests",
+                    "icon": "ic_star_grey_darken_2",
+                    "backgroundCover": "https://cloud.githubusercontent.com/assets/1849990/14277562/f94accac-fb23-11e5-8071-451db03510d0.jpeg",
+                    "hexColor": "#FFCC00",
+                    "entries": [
+                                {
+                                "id": 2016,
+                                "moduleId": 1008,
+                                "title": "Traveling",
+                                "subTitle": "",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14293569/719e034c-fb6d-11e5-9411-7542b24a5473.jpg",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2017,
+                                "moduleId": 1008,
+                                "title": "Photography",
+                                "subTitle": "",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14293570/719ee1fe-fb6d-11e5-8f86-85f9b89a2a29.jpg",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2018,
+                                "moduleId": 1008,
+                                "title": "Sports",
+                                "subTitle": "",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14293566/718f2246-fb6d-11e5-9be1-3551d0993927.jpeg",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2019,
+                                "moduleId": 1008,
+                                "title": "Cooking",
+                                "subTitle": "",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14276258/09a8b542-fb1e-11e5-9e0e-7464d874c598.jpeg",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2020,
+                                "moduleId": 1008,
+                                "title": "Movies",
+                                "subTitle": "",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14293571/71a8aad6-fb6d-11e5-96c2-0947d8778129.jpg",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2021,
+                                "moduleId": 1008,
+                                "title": "Books",
+                                "subTitle": "",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14293567/7195b2fa-fb6d-11e5-8011-d8670da5c4bf.jpg",
+                                "hexColor": "#87FC70"
+                                },
+                                {
+                                "id": 2022,
+                                "moduleId": 1008,
+                                "title": "Music",
+                                "subTitle": "",
+                                "content": "",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14293572/71afb98e-fb6d-11e5-8fab-c670f467bce3.jpg",
+                                "hexColor": "#87FC70"
+                                }
+                                ]
+                    },
+                    {
+                    "id": 1009,
+                    "title": "Contact",
+                    "icon": "ic_contact_cards",
+                    "backgroundCover": "https://cloud.githubusercontent.com/assets/1849990/14276247/f7c7cbba-fb1d-11e5-84d8-cce05a24c7b9.jpeg",
+                    "hexColor": "#5AD427",
+                    "entries": [
+                                {
+                                "id": 1007,
+                                "moduleId": 1009,
+                                "title": "Contact",
+                                "subTitle": "Contact Information",
+                                "content": "<b>Phone</b> +41 76 594 71 85\n<b>Email</b> manuelescrig@gmail.com\n<b>Website</b> manuelescrig.com",
+                                "image": "https://cloud.githubusercontent.com/assets/1849990/14276247/f7c7cbba-fb1d-11e5-84d8-cce05a24c7b9.jpeg",
+                                "hexColor": "#87FC70"
+                                }
+                                ]
+                    }
+                    ]
+    }
+}
