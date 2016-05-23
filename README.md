@@ -9,7 +9,7 @@
 [imdb:///name/nm0000158/](imdb:///name/nm0000158/)
 
 
-[taBook://publication](taBook://publication)
+[taBook://publication](http://taBook://publication)
 
 
 [taBook://publication/0](taBook://publication/0)
